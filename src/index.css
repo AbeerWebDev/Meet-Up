@@ -8,6 +8,8 @@ body {
   font-family: sans-serif;
   margin: 3rem;
   background-color: #dfdfdf;
+  padding: 0;
+  margin: 0;
 }
 
 h1, h2 {
