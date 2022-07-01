@@ -15,22 +15,24 @@ Link to project deployed with netlify. Live demo [here](https://the-react-meetu
 
 ## General Information
 
-MeetUp is a platform where you can arrange hangouts with your social group. In this project I used routing to enhance user experience, as well as firebase as a backend server. 
+MeetUp is a platform where you can arrange hangouts with your social group. In this project I used routing to enhance the user experience, as well as firebase as a backend server. 
 
 ### Purpose of this project
 
-To practice using API’s in this case the Spotify API.
+To build a complete ReactJS product that utilises routing, createContext, and a backend server.
 
 ## Technologies Used
-* ReactJS - V17.0.2
+* ReactJS
+* FireBase
 * HTML
 * CSS
 * JavaScript
 
 ## Features
-* Search for your preferred music by artist or title.
-* Name your playlist.
-* Submit your playlist to your Spotify application.
+* Add a Meetup by providng a title, location, image, and description.
+* Favorite Meetups.
+* Unfavorite Meetups.
+* View all Meetups favorited and otherwise.
 
 ## Screenshot
 Version 1.0 
@@ -58,28 +60,34 @@ To Visit App:
 
 ## Usage
 
-**Search**
+**Add A Meetup**
 
-* Search for music by title or artist.
+* Add a Meetup by providng a title, location, image, and description.
 
-**Add to Playlist**
+**Add to Favorites**
 
-* Name a playlist and add your music to it.
+* Add desired Meetups to your favorite list.
 
-**Submit**
+**Remove from Favorites**
 
-* Submit your playlist from The Jamming Project to your Spotify app.
+* Remove undesired Meetups from your favorite list.
+
+**Track Favorites**
+
+* Keep track of how many Meetups you have favorited through a badge counter.
+
+**View All**
+
+* View all Meetups whether favorited or otherwise.
 
 ## Project Status
 Project is: Completed
 
 ## Room for Improvement
-* Login authentication.
-* Add tests with Jest, Enzyme, and Selenium.
-* Make fetching the Client ID into a one step process, which will eliminate the need to hit the search button twice after writing the name of the song.
+* Store Favorited Meetups on a backend server, which will allow the user to refresh the favorites page without losing data.
 
 ## Acknowledgements
-* Many thanks to Codecademy.
+* Many thanks to Academind.
 
 ## Contact
 Created by Abeer Ahmed [LinkedIn profile](add url) - feel free to contact me.
