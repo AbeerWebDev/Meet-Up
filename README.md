@@ -1,5 +1,5 @@
-# The Jamming Project
-Link to project deployed with netlify. Live demo [here](https://the-jamming-project.netlify.app)
+# The Meet-Up Project
+Link to project deployed with netlify. Live demo [here](https:/)
 
 ## Table of Content
 * General Information
@@ -14,7 +14,8 @@ Link to project deployed with netlify. Live demo [here](https://the-jamming-pro
 * Contact
 
 ## General Information
-I created The Jamming Project with the intention of organizing Spotify music into playlists. You may search for your favorite artist or songs on The Jamming Project, and add them to a playlist that will directly be reflected in your Spotify app.
+
+MeetUp is a platform where you can arrange hangouts with your social group. In this project I used routing to enhance user experience, as well as firebase as a backend server. 
 
 ### Purpose of this project
 
