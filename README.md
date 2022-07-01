@@ -1,4 +1,4 @@
-# The React Meetup Project
+# The React MeetUp Project
 Link to project deployed with netlify. Live demo [here](https://the-react-meetups.netlify.app)
 
 ## Table of Content
