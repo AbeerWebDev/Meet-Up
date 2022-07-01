@@ -15,7 +15,7 @@ Link to project deployed with netlify. Live demo [here](https://the-react-meetu
 
 ## General Information
 
-MeetUp is a platform where you can arrange hangouts with your social group. In this project I used routing to enhance the user experience, as well as firebase as a backend server. 
+MeetUp is a platform where you can arrange hangouts with your social group. In this project I used routing to enhance the user experience, firebase as a backend server, and the useContext hook for better runtime. 
 
 ### Purpose of this project
 
@@ -32,6 +32,7 @@ To build a complete ReactJS product that utilises routing, createContext, and a 
 * Add a Meetup by providng a title, location, image, and description.
 * Favorite Meetups.
 * Unfavorite Meetups.
+* Keep track of favorited Meetup's number with a counter badge.
 * View all Meetups favorited and otherwise.
 
 ## Screenshot
