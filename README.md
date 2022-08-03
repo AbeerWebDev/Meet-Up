@@ -37,7 +37,7 @@ To build a complete ReactJS product that utilises routing, createContext, and a 
 
 ## Screenshot
 Version 1.0 
-![project screenshot](Screenshot.png)
+![project screenshot](home.png)
 
 ## Installation and Setup Instructions
 
